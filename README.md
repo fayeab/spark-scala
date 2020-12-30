@@ -6,4 +6,6 @@
 [Spark ML : Feature engineering](notebooks/spark-scala-ml-feature.ipynb)  
 [Spark ML : Classification](notebooks/spark-scala-ml-classification.ipynb)  
 [Spark ML : Régression](notebooks/spark-scala-ml-regression.ipynb)  
+[Spark ML : Clustering](notebooks/spark-scala-ml-clustering.ipynb)  
+[Spark ML : Recommandation](notebooks/spark-scala-ml-recommendation.ipynb)   
 [Optimiser une application Spark](notebooks/spark-optimisation-des-applications-spark.ipynb)
